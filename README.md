@@ -2,7 +2,8 @@
 
 Simple Reverse Raycasting in C++ with SDL2
 
-This project is a basic implementation of **reverse raycasting** using **C/C++** and **SDL2** for rendering. It serves as a minimal, educational example of how to simulate simple raycasting logic in a 2D environment.
+This project is a basic implementation of **reverse raycasting** using **C/C++** and **SDL2** for rendering.
+It serves as a minimal, educational example of how to simulate simple raycasting logic in a 2D environment.
 
 ---
 
